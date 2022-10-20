@@ -1,3 +1,3 @@
 # setup
 
-Adding some text to test the connection.
+Adding some text to test the connection
